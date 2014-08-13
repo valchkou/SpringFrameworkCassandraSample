@@ -1,0 +1,97 @@
+body {
+	
+}
+
+h1 {
+	text-align: center;
+	font-family: Garamond, serif;
+	line-height: 1em;
+	color: #69c0db;
+	font-weight:bold;
+	font-size: 42px;
+	text-shadow:0px 0px 0 rgb(73,160,187),1px 1px 0 rgb(52,139,166),2px 2px 0 rgb(30,117,144),3px 3px 0 rgb(8,95,122), 4px 4px 0 rgb(-14,73,100),5px 5px 4px rgba(0,0,0,0.6),5px 5px 1px rgba(0,0,0,0.5),0px 0px 4px rgba(0,0,0,.2);
+}
+
+/*Apply this class to some text to unlock the secrets of the third dimension!*/
+h3 {
+	text-align: center;
+	font-family: Garamond, serif;
+	line-height: 1em;
+	color: #51a8c2;
+	font-size: 29px;
+	text-shadow:0px 0px 0 rgb(61,148,174), 1px 1px 0 rgb(41,128,154),2px 2px 1px rgba(0,0,0,0.1),2px 2px 1px rgba(0,0,0,0.5),0px 0px 1px rgba(0,0,0,.2);
+}
+
+#header {
+	margin-left: auto;
+	margin-right: auto;
+	width: 700px;
+}
+
+#container {
+	margin-left: auto;
+	margin-right: auto;
+	width: 700px;
+	border: black solid 1px;
+	background: linear-gradient(to left, #BAFFFA 0%, #5D76EF 100%);
+}
+
+.main-window {
+	width: 550px;
+	height: 550px;
+}
+
+#messages {
+	height: 65%;
+	margin: 10px;
+	overflow: scroll;
+	overflow-x: hidden;
+}
+
+#textBox {
+	height: 15%;
+	margin: 20px 0px 10px 10px;
+	width: 95%;
+}
+
+#messageText {
+	height: 100%;
+	width: 100%;
+}
+
+#actionBox {
+	height: 40px;
+	margin: 0px 10px 10px 10px;
+}
+
+#postButton {
+	width: 50px;
+	height: 20px;
+	float: right;
+}
+
+.message {
+	width: 100%;
+	height: 50px;
+}
+
+.author {
+	float: left;
+	padding-left: 5px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.timestamp {
+	float: right;
+	padding-right: 5px;
+	font-style: italic;
+}
+
+.text {
+	padding-left: 10px;
+	float: left;
+	width: 100%;
+	color: #333;
+	text-shadow: 1px 1px 1px #999;
+}
