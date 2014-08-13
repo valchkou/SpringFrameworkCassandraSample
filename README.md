@@ -26,7 +26,7 @@ You will need:
 This application baked by [Spring-Boot](http://projects.spring.io/spring-boot). So you don't have to worry about building and running webapp.  
 You just need to navigate project root and execute command:  
 #### mvn spring-boot:run  
-Than open few browser table or windows with [http://localhost:8080](http://localhost:8080) and start chatting.
+Than open few browser Tabs or Windows with [http://localhost:8080](http://localhost:8080) and start chatting.
 
 
 
