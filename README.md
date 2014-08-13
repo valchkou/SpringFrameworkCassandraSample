@@ -1,7 +1,7 @@
 Sample Spring Cassandra Project
 ==============================
 
-The purpose of this project to demonstrate how to merry [casandra-driver-mapping ](https://github.com/valchkou/cassandra-driver-mapping) add-on with the Spring Framework.  
+The purpose of this project to demonstrate how to marry [casandra-driver-mapping ](https://github.com/valchkou/cassandra-driver-mapping) add-on with the Spring Framework.  
 The project is a small webapp with UI, REST Services and Cassandra DB. 
 
 ### You can dive into the code directly:
