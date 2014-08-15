@@ -4,14 +4,7 @@ import org.springframework.beans.factory.InitializingBean;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
-import com.datastax.driver.core.Statement;
-import com.datastax.driver.core.querybuilder.QueryBuilder;
-import com.datastax.driver.mapping.EntityTypeParser;
 import com.datastax.driver.mapping.MappingSession;
-import com.datastax.driver.mapping.meta.EntityFieldMetaData;
-import com.datastax.driver.mapping.meta.EntityTypeMetadata;
-
-import static com.datastax.driver.core.querybuilder.QueryBuilder.eq;
 
 /**
  * Spring Bean wrapper for MappingSession.
